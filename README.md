@@ -1,6 +1,6 @@
 # ECMcamera
 
-这是一个基于arp欺骗技术来反摄像头的python脚本
+这是一个基于arp欺骗技术来反摄像头的python脚本，此脚本仅适用于Windows
 
 详细介绍在“食用指南.txt”里
 
