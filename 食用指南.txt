@@ -4,6 +4,8 @@
 
 使用方法就是把目录里的“Shields_ICMP.bat”用管理员运行一次就可以不管了，如果无效请用管理员运行一次“Shields_ARP.bat”如果都无效就放弃吧
 
+需要注意的是，此脚本需要libpcap库，但此脚本仅适用于Windows，所以你需要安装nmap，可以在这里获取：https://nmap.org/download.html#windows
+
 下面是有关目录内所有文件的介绍：
 
 “ECMcamera_ICMP_v0.6.9.exe”首选这个
